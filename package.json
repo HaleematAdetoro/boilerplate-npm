@@ -13,6 +13,7 @@
     "url": "https://idontknow/todo.git"
   },
   "description": "A project that does something awesome",
+  "keywords": ["freecodecamp", "practice"],
   "version": "1.0.0",
   "devDependencies": {},
   "license": "ISC"
