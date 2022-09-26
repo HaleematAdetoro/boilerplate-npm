@@ -16,5 +16,5 @@
   "keywords": ["freecodecamp", "practice"],
   "version": "1.0.0",
   "devDependencies": {},
-  "license": "ISC"
+  "license": "MIT"
 }
